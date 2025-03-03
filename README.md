@@ -79,7 +79,7 @@ This dashboard provides more than just a summary of sales data:
 
 
 ## 📌 Conclusion
-This advanced sa;es dashboard is designed for professionals who need real-time, actionable business insights. It goes beyond simple visualization by incoporating advanced analytics, interactive elements to drive data-driven decision-making. With its scalable architecture and ability to integrate new data sources, this project stands out as a powerful business intelligence tool.
+This advanced sales dashboard is designed for professionals who need real-time, actionable business insights. It goes beyond simple visualization by incoporating advanced analytics, interactive elements to drive data-driven decision-making. With its scalable architecture and ability to integrate new data sources, this project stands out as a powerful business intelligence tool.
 
 📌 **Author:** Munna  
 📧 **Contact:** [\[LinkedIn\]  ](http://linkedin.com/in/munna-a4ab07253)
