@@ -35,16 +35,6 @@ This dashboard provides more than just a summary of sales data:
 - Can be extended to include **predictive analytics** using machine learning models.
 
 
-## 🚀 Features
-- **Power BI & MySQL Integration**: Establishing a seamless connection between Power BI and MySQL.
-- **ETL Process**: Extracting, transforming, and loading data from multiple MySQL tables.
-- **Data Cleaning & Preprocessing**:
-  - Filtering out irrelevant or erroneous data.
-  - Normalizing currency values (USD to INR conversion).
-- **Star Schema Implementation**: Establishing relationships between **fact and dimension tables** to optimize data modeling.
-- **Data Model Optimization**: Creating an efficient relational data model using **Power BI Relationships**.
-- **Visualization Preparation**: Structuring the cleaned and transformed data for easy dashboard creation.
-
 ## 🛠 Tech Stack
 - **Database**: MySQL
 - **BI Tool**: Power BI
