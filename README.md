@@ -1,7 +1,7 @@
 # Sales Dashboard - Advanced Business Intelligence with Power BI & MySQL
 
 ## 📌 Overview
-This project is not just another sales dashboard—it’s a **real-world, data-driven business intelligence tool**. Leveraging **a real dataset, advanced Power BI features, and a structured ETL pipeline**, this dashboard provides actionable insights into **customer behavior, revenue trends, and key profit drivers**. It goes beyond basic reporting by integrating **dynamic filters and interactive drill-through pages** to enhance decision-making. Built for scalability, this project is designed to handle **large datasets and real-time updates**, making it an essential tool for business analytics.
+This project is not just another sales dashboard, it’s a **real-world, data-driven business intelligence tool**. Leveraging **a real dataset, advanced Power BI features, and a structured ETL pipeline**, this dashboard provides actionable insights into **customer behavior, revenue trends, and key profit drivers**. It goes beyond basic reporting by integrating **dynamic filters and interactive drill-through pages** to enhance decision-making. Built for scalability, this project is designed to handle **large datasets and real-time updates**, making it an essential tool for business analytics.
 
 ## 🎯 Key Features & Differentiators
 
